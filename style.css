@@ -1,0 +1,42 @@
+h1.text-center, h2.text-center, h3.text-center, h3 { /* Shadow for headers */
+    text-shadow: 2px 2px 5px white;
+  }
+.thumbnail {
+    background-color: rgb(175, 196, 173);
+}
+body {
+     margin-top: 33px;
+     background-color: rgb(184, 212, 197);
+ }
+ .container {
+     width: auto;
+     border: 5px dotted rgb(59, 78, 59);
+ }
+.thumbnail .caption {
+     background-color: rgb(58, 112, 60);
+}
+.text-center { /* Centers text */
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.thumbnail-center { /* Border around text */
+    text-align: center;
+    width: auto;
+    background-color: rgb(184, 212, 197);
+    border: 5px solid rgb(59, 78, 59);
+    padding: 50px;
+    margin: 20px; 
+  }
+  .thumbnail img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      width: 300px;
+      border-radius: 50%;
+  }
+  div.row { /* Connects the colors */
+      width: auto;
+      border: 1px solid rgb(175, 196, 173);
+      background-color: rgb(175, 196, 173);
+  }
