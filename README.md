@@ -1,1 +1,1 @@
-== Celebrity Page Made with HTML & CSS ==
+== Simple Celebrity Info. Page Made with HTML & CSS ==
